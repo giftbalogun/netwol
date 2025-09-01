@@ -1,9 +1,3 @@
-Great! Here's a complete **press kit + privacy policy + support link content** for your **NetWOL** app to go along with the app store submission.
-
----
-
-## 📦 PRESS KIT (App Metadata)
-
 ### 📌 App Name:
 
 **NetWOL – Wake on LAN Utility**
