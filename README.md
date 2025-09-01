@@ -26,24 +26,8 @@
 
 > **NetWOL** respects your privacy. We do not collect or share any personal data. All device information stays securely on your device and is not transmitted to any third-party servers.
 
-You can include this on your website or link to a hosted version (e.g., GitHub, Firebase, Notion, or Pastebin):
-
 ```plaintext
 https://netwol.app/privacy
-```
-
-**Sample Privacy Policy Markdown (for your website or GitHub):**
-
-```markdown
-# NetWOL Privacy Policy
-
-Effective Date: [Insert Launch Date]
-
-NetWOL does not collect, store, or share any personal data. The app functions entirely on-device and only uses the information you provide (like MAC address and IP) to send Wake-on-LAN packets.
-
-We do not use any third-party analytics or ad services.
-
-If you have any questions or concerns, contact us at: support@netwol.app
 ```
 
 ---
@@ -54,8 +38,6 @@ If you have any questions or concerns, contact us at: support@netwol.app
 * **Website:** [https://netwol.app](https://netwol.app)
 * **Documentation:** [https://netwol.app/docs](https://netwol.app/docs)
 * **FAQ:** [https://netwol.app/faq](https://netwol.app/faq)
-
-> *(If you haven’t set these up yet, I can help you create a single landing page or Notion-style doc with all of these.)*
 
 ---
 
